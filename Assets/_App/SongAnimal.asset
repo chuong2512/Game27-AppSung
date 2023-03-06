@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f886a5064afa5458155f37209c608c, type: 3}
+  m_Name: SongAnimal
+  m_EditorClassIdentifier: 
+  songInfors:
+  - song: {fileID: 8300000, guid: 52538a873290c6b419e4cf5bb2511a03, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 99f53cbaa42931a43a213f23c4c736d8, type: 3}
+  - song: {fileID: 8300000, guid: 152ae50c5044fc44d8eb2c09bae1a9b9, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 3bd8a35e96dd2384395ea280821a033f, type: 3}
+  - song: {fileID: 8300000, guid: 024ba1fad2f83c34391dedc34b69527d, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: a00555f5fd20fa24f88e9bfc63b083b5, type: 3}
+  - song: {fileID: 8300000, guid: fff822d610fe0d948b18314193bd37de, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 594ea5a7ac2f46b40bd78c0ccb902b39, type: 3}
+  - song: {fileID: 8300000, guid: fdef8f634d2513d419b30a8608f44d49, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: c6498f7f969d1794b9bce2b786478dc2, type: 3}
+  - song: {fileID: 8300000, guid: a6d2c8fbe10bfb349a6d24e683b5b4d1, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 24a6ea3f2eea0124d9d97251eadae275, type: 3}
+  - song: {fileID: 8300000, guid: a6d2c8fbe10bfb349a6d24e683b5b4d1, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 620bda69ed8da7a4ab2b53b4b6638d16, type: 3}
+  - song: {fileID: 8300000, guid: a088a151b1c9f6641989346cb369f4d5, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: c1418e2a7d46e6a4baa924bcf05ad92f, type: 3}
+  - song: {fileID: 8300000, guid: e0297ec4046dc054a8cd8ed3a8e225b5, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 58a7ab0e0d8319843852a747ea95fb69, type: 3}
+  - song: {fileID: 8300000, guid: 786a7f6646260f64298850c17cb85180, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: d77705f080196e14eb8b01835fa59b39, type: 3}
+  - song: {fileID: 8300000, guid: 983a6aba28b6a944287c1b8993f61e2c, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: d0b5a41c82fe02e4b8961520ec18a2b4, type: 3}
+  - song: {fileID: 8300000, guid: 01163dd9d76b4594c85af5489477831e, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 8d2bd19f073620642af9e651a62369e8, type: 3}
+  - song: {fileID: 8300000, guid: 524b80efc90ac6b4ca2d22d616c8aa7d, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 0f632a89ef21f6b47bde54e29517c715, type: 3}
+  - song: {fileID: 8300000, guid: a2a74ef2cf08f744da0c052fb88bb2ec, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 2af2577210bfe614ea99306a649cd3cc, type: 3}
+  - song: {fileID: 8300000, guid: 363e78e14c17b6d45ae0aff92dc5e555, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 792456cf3024c0140a5190b38e4afa17, type: 3}
+  - song: {fileID: 8300000, guid: 09f5765f8d6a7e6488b5f655c31c160f, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 3fd8bba1dbc191e45a02f40491922fde, type: 3}
+  - song: {fileID: 8300000, guid: b3ee46891159383418dae1a9fa2e9396, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: c1fe71a9e4f0f3a4e9d826d770dbed7a, type: 3}
+  - song: {fileID: 8300000, guid: 5646993bb64daa04a978f4e6d91039a3, type: 3}
+    name: 
+    icon: {fileID: 21300000, guid: 72f550db12045fd44a1477a6888f0121, type: 3}
